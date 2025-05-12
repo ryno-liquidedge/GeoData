@@ -1,18 +1,17 @@
 Country,Alpha-2,Alpha-3,Currency,Currency Symbol,Currency Alpha-3
-Afghanistan,AF,AFG,Afghani,؋,AFN
+Afghanistan,AF,AFG,Afghani,AFN,AFN
 Albania,AL,ALB,Lek,L,ALL
-Algeria,DZ,DZA,Algerian Dinar,د.ج,DZD
+Algeria,DZ,DZA,Algerian Dinar,DZD,DZD
 Andorra,AD,AND,Euro,€,EUR
 Angola,AO,AGO,Angolan Kwanza,Kz,AOA
-Antigua and Barbuda,AG,ATG,East Caribbean Dollar,$,XCD
 Argentina,AR,ARG,Argentine Peso,$,ARS
-Armenia,AM,ARM,Armenian Dram,֏,AMD
+Armenia,AM,ARM,Armenian Dram,AMD,AMD
 Australia,AU,AUS,Australian Dollar,$,AUD
 Austria,AT,AUT,Euro,€,EUR
-Azerbaijan,AZ,AZE,Azerbaijani Manat,₼,AZN
+Azerbaijan,AZ,AZE,Azerbaijani Manat,AZN,AZN
 Bahamas,BS,BHS,Bahamian Dollar,$,BSD
-Bahrain,BH,BHR,Bahraini Dinar,د.ب,BHD
-Bangladesh,BD,BGD,Bangladeshi Taka,৳,BDT
+Bahrain,BH,BHR,Bahraini Dinar,BHD,BHD
+Bangladesh,BD,BGD,Bangladeshi Taka,BDT,BDT
 Barbados,BB,BRB,Barbadian Dollar,$,BBD
 Belarus,BY,BLR,Belarusian Ruble,Br,BYN
 Belgium,BE,BEL,Euro,€,EUR
@@ -24,49 +23,50 @@ Bosnia and Herzegovina,BA,BIH,Convertible Mark,KM,BAM
 Botswana,BW,BWA,Botswana Pula,P,BWP
 Brazil,BR,BRA,Brazilian Real,R$,BRL
 Brunei,BN,BRN,Brunei Dollar,B$,BND
-Bulgaria,BG,BGR,Bulgarian Lev,лв,BGN
+Bulgaria,BG,BGR,Bulgarian Lev,BGN,BGN
 Burkina Faso,BF,BFA,West African CFA Franc,CFA,XOF
 Burundi,BI,BDI,Burundian Franc,FBu,BIF
-Cabo Verde,CV,CPV,Cape Verdean Escudo,$,CVE
-Cambodia,KH,KHM,Cambodian Riel,៛,KHR
+Cambodia,KH,KHM,Cambodian Riel,KHR,KHR
 Cameroon,CM,CMR,Central African CFA Franc,CFA,XAF
 Canada,CA,CAN,Canadian Dollar,$,CAD
-Central African Republic,CF,CAF,Central African CFA Franc,CFA,XAF
-Chad,TD,TCD,Central African CFA Franc,CFA,XAF
 Chile,CL,CHL,Chilean Peso,$,CLP
 China,CN,CHN,Renminbi (Yuan),¥,CNY
 Colombia,CO,COL,Colombian Peso,$,COP
-Comoros,KM,COM,Comorian Franc,Fr,KMF
-Congo (Republic of),CG,COG,Central African CFA Franc,CFA,XAF
-Costa Rica,CR,CRI,Costa Rican Colón,₡,CRC
+Costa Rica,CR,CRI,Costa Rican Colón,CRC,CRC
 Croatia,HR,HRV,Euro,€,EUR
-Cuba,CU,CUB,Cuban Peso,₱,CUP
-Cyprus,CY,CYP,Euro,€,EUR
-Czech Republic,CZ,CZE,Czech Koruna, Kč,CZK
-Democratic Republic of the Congo,CD,COD,Congolese Franc,FC,CDF
+Cuba,CU,CUB,Cuban Peso,CUP,CUP
+Czech Republic,CZ,CZE,Czech Koruna,CZK,CZK
 Denmark,DK,DNK,Danish Krone,kr,DKK
-Djibouti,DJ,DJI,Djiboutian Franc,Fdj,DJF
-Dominica,DM,DMA,East Caribbean Dollar,$,XCD
 Dominican Republic,DO,DOM,Dominican Peso,RD$,DOP
 Ecuador,EC,ECU,United States Dollar,$,USD
 Egypt,EG,EGY,Egyptian Pound,£,EGP
 El Salvador,SV,SLV,United States Dollar,$,USD
-Equatorial Guinea,GQ,GNQ,Central African CFA Franc,CFA,XAF
-Eritrea,ER,ERI,Eritrean Nakfa,Nfk,ERN
 Estonia,EE,EST,Euro,€,EUR
-Eswatini,SZ,SWZ,Swazi Lilangeni,E,SZL
 Ethiopia,ET,ETH,Ethiopian Birr,Br,ETB
 Fiji,FJ,FJI,Fijian Dollar,FJ$,FJD
 Finland,FI,FIN,Euro,€,EUR
 France,FR,FRA,Euro,€,EUR
-Gabon,GA,GAB,Central African CFA Franc,CFA,XAF
 Gambia,GM,GMB,Gambian Dalasi,D,GMD
-Georgia,GE,GEO,Georgian Lari,₾,GEL
+Georgia,GE,GEO,Georgian Lari,GEL,GEL
 Germany,DE,DEU,Euro,€,EUR
-Ghana,GH,GHA,Ghanaian Cedi,₵,GHS
+Ghana,GH,GHA,Ghanaian Cedi,GHS,GHS
 Greece,GR,GRC,Euro,€,EUR
-Grenada,GD,GRD,East Caribbean Dollar,$,XCD
 Guatemala,GT,GTM,Guatemalan Quetzal,Q,GTQ
+Guinea,GN,GIN,Guinean Franc,FG,GNF
+Guyana,GY,GUY,Guyanese Dollar,$,GYD
+Haiti,HT,HTI,Haitian Gourde,G,HTG
+Honduras,HN,HND,Honduran Lempira,L,HNL
+Hungary,HU,HUN,Hungarian Forint,Ft,HUF
+Iceland,IS,ISL,Icelandic Króna,kr,ISK
+India,IN,IND,Indian Rupee,INR,INR
+Indonesia,ID,IDN,Indonesian Rupiah,Rp,IDR
+Iran,IR,IRN,Iranian Rial,IRR,IRR
+Iraq,IQ,IRQ,Iraqi Dinar,IQD,IQD
+Ireland,IE,IRL,Euro,€,EUR
+Israel,IL,ISR,Israeli New Shekel,ILS,ILS
+Italy,IT,ITA,Euro,€,EUR
+Jamaica,JM,JAM,Jamaican Dollar,J$,JMD
+Japan,JP,JPN,Japanese Yen,¥,JPY
 Guinea,GN,GIN,Guinean Franc,FG,GNF
 Guinea-Bissau,GW,GNB,West African CFA Franc,CFA,XOF
 Guyana,GY,GUY,Guyanese Dollar,$,GYD
@@ -74,35 +74,35 @@ Haiti,HT,HTI,Haitian Gourde,G,HTG
 Honduras,HN,HND,Honduran Lempira,L,HNL
 Hungary,HU,HUN,Hungarian Forint,Ft,HUF
 Iceland,IS,ISL,Icelandic Króna,kr,ISK
-India,IN,IND,Indian Rupee,₹,INR
+India,IN,IND,Indian Rupee,INR,INR
 Indonesia,ID,IDN,Indonesian Rupiah,Rp,IDR
-Iran,IR,IRN,Iranian Rial,﷼,IRR
-Iraq,IQ,IRQ,Iraqi Dinar,ع.د,IQD
+Iran,IR,IRN,Iranian Rial,IRR,IRR
+Iraq,IQ,IRQ,Iraqi Dinar,IQD,IQD
 Ireland,IE,IRL,Euro,€,EUR
-Israel,IL,ISR,Israeli New Shekel,₪,ILS
+Israel,IL,ISR,Israeli New Shekel,ILS,ILS
 Italy,IT,ITA,Euro,€,EUR
 Jamaica,JM,JAM,Jamaican Dollar,J$,JMD
 Japan,JP,JPN,Japanese Yen,¥,JPY
-Jordan,JO,JOR,Jordanian Dinar,د.ا,JOD
-Kazakhstan,KZ,KAZ,Kazakhstani Tenge,₸,KZT
+Jordan,JO,JOR,Jordanian Dinar,JOD,JOD
+Kazakhstan,KZ,KAZ,Kazakhstani Tenge,KZT,KZT
 Kenya,KE,KEN,Kenyan Shilling,KSh,KES
 Kiribati,KI,KIR,Australian Dollar,$,AUD
 Kosovo,XK,XKX,Euro,€,EUR
-Kuwait,KW,KWT,Kuwaiti Dinar,د.ك,KWD
-Kyrgyzstan,KG,KGZ,Kyrgyzstani Som,сом,KGS
-Laos,LA,LAO,Lao Kip,₭,LAK
+Kuwait,KW,KWT,Kuwaiti Dinar,KWD,KWD
+Kyrgyzstan,KG,KGZ,Kyrgyzstani Som,KGS,KGS
+Laos,LA,LAO,Lao Kip,LAK,LAK
 Latvia,LV,LVA,Euro,€,EUR
 Lebanon,LB,LBN,Lebanese Pound,£,LBP
 Lesotho,LS,LSO,Lesotho Loti,L,LSL
 Liberia,LR,LBR,Liberian Dollar,$,LRD
-Libya,LY,LBY,Libyan Dinar,د.ل,LYD
+Libya,LY,LBY,Libyan Dinar,LYD,LYD
 Liechtenstein,LI,LIE,Swiss Franc,CHF,CHF
 Lithuania,LT,LTU,Euro,€,EUR
 Luxembourg,LU,LUX,Euro,€,EUR
 Madagascar,MG,MDG,Malagasy Ariary,Ar,MGA
 Malawi,MW,MWI,Malawian Kwacha,MK,MWK
 Malaysia,MY,MYS,Malaysian Ringgit,RM,MYR
-Maldives,MV,MDV,Maldivian Rufiyaa,.ރ,MVR
+Maldives,MV,MDV,Maldivian Rufiyaa,MVR,MVR
 Mali,ML,MLI,West African CFA Franc,CFA,XOF
 Malta,MT,MLT,Euro,€,EUR
 Marshall Islands,MH,MHL,United States Dollar,$,USD
@@ -112,35 +112,35 @@ Mexico,MX,MEX,Mexican Peso,$,MXN
 Micronesia,FM,FSM,United States Dollar,$,USD
 Moldova,MD,MDA,Moldovan Leu,L,MDL
 Monaco,MC,MCO,Euro,€,EUR
-Mongolia,MN,MNG,Mongolian Tögrög,₮,MNT
+Mongolia,MN,MNG,Mongolian Tögrög,MNT,MNT
 Montenegro,ME,MNE,Euro,€,EUR
-Morocco,MA,MAR,Moroccan Dirham,د.م.,MAD
+Morocco,MA,MAR,Moroccan Dirham,MAD,MAD
 Mozambique,MZ,MOZ,Mozambican Metical,MT,MZN
 Myanmar,MM,MMR,Burmese Kyat,K,MMK
 Namibia,NA,NAM,Namibian Dollar,$,NAD
 Nauru,NR,NRU,Australian Dollar,$,AUD
-Nepal,NP,NPL,Nepalese Rupee,रू,NPR
+Nepal,NP,NPL,Nepalese Rupee,NPR,NPR
 Netherlands,NL,NLD,Euro,€,EUR
 New Zealand,NZ,NZL,New Zealand Dollar,$,NZD
 Nicaragua,NI,NIC,Nicaraguan Córdoba,C$,NIO
 Niger,NE,NER,West African CFA Franc,CFA,XOF
-Nigeria,NG,NGA,Nigerian Naira,₦,NGN
-North Korea,KP,PRK,North Korean Won,₩,KPW
-North Macedonia,MK,MKD,Macedonian Denar,ден,MKD
+Nigeria,NG,NGA,Nigerian Naira,NGN,NGN
+North Korea,KP,PRK,North Korean Won,KPW,KPW
+North Macedonia,MK,MKD,Macedonian Denar,MKD,MKD
 Norway,NO,NOR,Norwegian Krone,kr,NOK
-Oman,OM,OMN,Omani Rial,ر.ع.,OMR
+Oman,OM,OMN,Omani Rial,OMR,OMR
 Pakistan,PK,PAK,Pakistani Rupee,₨,PKR
 Palau,PW,PLW,United States Dollar,$,USD
 Panama,PA,PAN,Balboa,B/.,PAB
 Papua New Guinea,PG,PNG,Papua New Guinean Kina,K,PGK
-Paraguay,PY,PRY,Paraguayan Guarani,₲,PYG
+Paraguay,PY,PRY,Paraguayan Guarani,PYG,PYG
 Peru,PE,PER,Peruvian Sol,S/,PEN
-Philippines,PH,PHL,Philippine Peso,₱,PHP
-Poland,PL,POL,Polish Złoty, zł,PLN
+Philippines,PH,PHL,Philippine Peso,PHP,PHP
+Poland,PL,POL,Polish Zloty,PLN,PLN
 Portugal,PT,PRT,Euro,€,EUR
-Qatar,QA,QAT,Qatari Riyal,ر.ق,QAR
+Qatar,QA,QAT,Qatari Riyal,QAR,QAR
 Romania,RO,ROU,Romanian Leu,lei,RON
-Russia,RU,RUS,Russian Ruble,₽,RUB
+Russia,RU,RUS,Russian Ruble,RUB,RUB
 Rwanda,RW,RWA,Rwandan Franc,FRw,RWF
 Saint Kitts and Nevis,KN,KNA,East Caribbean Dollar,$,XCD
 Saint Lucia,LC,LCA,East Caribbean Dollar,$,XCD
@@ -148,9 +148,9 @@ Saint Vincent and the Grenadines,VC,VCT,East Caribbean Dollar,$,XCD
 Samoa,WS,WSM,Samoan Tala,WS$,WST
 San Marino,SM,SMR,Euro,€,EUR
 Sao Tome and Principe,ST,STP,São Tomé and Príncipe Dobra,Db,STN
-Saudi Arabia,SA,SAU,Saudi Riyal,﷼,SAR
+Saudi Arabia,SA,SAU,Saudi Riyal,SAR,SAR
 Senegal,SN,SEN,West African CFA Franc,CFA,XOF
-Serbia,RS,SRB,Serbian Dinar,дин.,RSD
+Serbia,RS,SRB,Serbian Dinar,RSD,RSD
 Seychelles,SC,SYC,Seychellois Rupee,₨,SCR
 Sierra Leone,SL,SLE,Sierra Leonean Leone,Le,SLL
 Singapore,SG,SGP,Singapore Dollar,$,SGD
@@ -159,11 +159,11 @@ Slovenia,SI,SVN,Euro,€,EUR
 Solomon Islands,SB,SLB,Solomon Islands Dollar,SI$,SBD
 Somalia,SO,SOM,Somali Shilling,Sh,SOS
 South Africa,ZA,ZAF,South African Rand,R,ZAR
-South Korea,KR,KOR,South Korean Won,₩,KRW
+South Korea,KR,KOR,South Korean Won,KRW,KRW
 South Sudan,SS,SSD,South Sudanese Pound,£,SSP
 Spain,ES,ESP,Euro,€,EUR
 Sri Lanka,LK,LKA,Sri Lankan Rupee,Rs,LKR
-Sudan,SD,SDN,Sudanese Pound,ج.س.,SDG
+Sudan,SD,SDN,Sudanese Pound,SDG,SDG
 Suriname,SR,SUR,Surinamese Dollar,$,SRD
 Sweden,SE,SWE,Swedish Krona,kr,SEK
 Switzerland,CH,CHE,Swiss Franc,CHF,CHF
@@ -171,26 +171,26 @@ Syria,SY,SYR,Syrian Pound,£,SYP
 Taiwan,TW,TWN,New Taiwan Dollar,NT$,TWD
 Tajikistan,TJ,TJK,Tajikistani Somoni,SM,TJS
 Tanzania,TZ,TZA,Tanzanian Shilling,TSh,TZS
-Thailand,TH,THA,Thai Baht,฿,THB
+Thailand,TH,THA,Thai Baht,THB,THB
 Timor-Leste,TL,TLS,United States Dollar,$,USD
 Togo,TG,TGO,West African CFA Franc,CFA,XOF
-Tonga,TO,TON,Tongan Paʻanga,T$,TOP
+Tonga,TO,TON,Tongan Pa'anga,T$,TOP
 Trinidad and Tobago,TT,TTO,Trinidad and Tobago Dollar,TT$,TTD
-Tunisia,TN,TUN,Tunisian Dinar,د.ت,TND
-Turkey,TR,TUR,Turkish Lira,₺,TRY
+Tunisia,TN,TUN,Tunisian Dinar,TND,TND
+Turkey,TR,TUR,Turkish Lira,TRY,TRY
 Turkmenistan,TM,TKM,Turkmenistani Manat,m,TMT
 Tuvalu,TV,TUV,Australian Dollar,$,AUD
 Uganda,UG,UGA,Ugandan Shilling,USh,UGX
-Ukraine,UA,UKR,Ukrainian Hryvnia,₴,UAH
-United Arab Emirates,AE,ARE,UAE Dirham,د.إ,AED
+Ukraine,UA,UKR,Ukrainian Hryvnia,UAH,UAH
+United Arab Emirates,AE,ARE,UAE Dirham,AED,AED
 United Kingdom,GB,GBR,Pound Sterling,£,GBP
 United States,US,USA,United States Dollar,$,USD
 Uruguay,UY,URY,Uruguayan Peso,$,UYU
-Uzbekistan,UZ,UZB,Uzbekistani Som,soʻm,UZS
+Uzbekistan,UZ,UZB,Uzbekistani Som,UZS,UZS
 Vanuatu,VU,VUT,Vanuatu Vatu,Vt,VUV
 Vatican City,VA,VAT,Euro,€,EUR
 Venezuela,VE,VEN,Venezuelan Bolívar,Bs,VES
-Vietnam,VN,VNM,Vietnamese Đồng,₫,VND
-Yemen,YE,YEM,Yemeni Rial,﷼,YER
+Vietnam,VN,VNM,Vietnamese Dong,VND,VND
+Yemen,YE,YEM,Yemeni Rial,YER,YER
 Zambia,ZM,ZMB,Zambian Kwacha,ZK,ZMW
 Zimbabwe,ZW,ZWE,Zimbabwean Dollar,$,ZWL
