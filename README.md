@@ -24,7 +24,7 @@ To add this library to your project:
 
 **Using Composer** (recommended):
 ```shell script
-composer require liquidedge-app/geodata
+composer require liquidedge-app/geo-data
 ```
 
 Alternatively, you can manually download or clone the repository and include it in your project.
