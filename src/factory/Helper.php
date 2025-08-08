@@ -6,7 +6,7 @@ class Helper {
 	//--------------------------------------------------------------------------------
 	public static function safe_name($str): string {
 		$str = transliterator_transliterate('Any-Latin; Latin-ASCII', $str);
-		return ucwords(strtolower($str));
+		return \Illuminate\Support\Str::title(self::strip_special_chars($str));
 	}
 	//--------------------------------------------------------------------------------
 	public static function strip_special_chars(string $string): string {

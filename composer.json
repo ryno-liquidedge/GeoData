@@ -1,13 +1,14 @@
 {
-    "name": "liquidedge-app/geo-data",
-    "description": "A helper lib with Nova Geo Data",
-    "autoload": {
-        "psr-4": {
-            "LiquidedgeApp\\GeoData\\": "src/"
-        }
-    },
+  "name": "liquidedge-app/geo-data",
+  "description": "A helper lib with Nova Geo Data",
+  "autoload": {
+    "psr-4": {
+      "LiquidedgeApp\\GeoData\\": "src/"
+    }
+  },
   "require": {
     "ext-intl": "*",
-    "ext-iconv": "*"
+    "ext-iconv": "*",
+    "illuminate/support": "^12.19"
   }
 }
