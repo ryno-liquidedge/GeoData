@@ -1,5 +1,9 @@
 {
     "name": "liquidedge-app/geo-data",
     "description": "A helper lib with Nova Geo Data",
-    "autoload": {}
+    "autoload": {
+        "psr-4": {
+            "LiquidedgeApp\\GeoData\\": "src/"
+        }
+    }
 }
