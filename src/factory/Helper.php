@@ -11,6 +11,16 @@ class Helper {
 	//--------------------------------------------------------------------------------
 	public static function strip_special_chars(string $string): string {
 
+		// Convert to ASCII by transliterating characters
+		$string = iconv('UTF-8', 'ASCII//TRANSLIT//IGNORE', $string);
+
+		// Remove any remaining non-alphanumeric characters (you can tweak this pattern as needed)
+		$string = preg_replace('/[^A-Za-z0-9\s]/', '', $string);
+
+		// Optionally trim and normalize whitespace
+		$string = preg_replace('/\s+/', ' ', $string); // Replace multiple spaces with single space
+		$string = trim($string);
+
         $string = self::strip_accents($string);
 
         // UTF-8 characters
